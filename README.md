@@ -10,6 +10,6 @@ Initialization Steps:
 4. Repeat until all k centroids are chosen.
 
 Applications include : 
-Image segmentation: K-means++ can be used to segment images into different regions based on their color or texture features. 
-Customer segmentation: K-means++ can be used to group customers into different segments based on their purchasing habits, demographic data, or other characteristics. 
-Anomaly detection: K-means++ can be used to identify outliers or anomalies in a dataset. This is useful in fraud detection, network intrusion detection, and other security applications.
+ Image segmentation: K-means++ can be used to segment images into different regions based on their color or texture features. 
+ Customer segmentation: K-means++ can be used to group customers into different segments based on their purchasing habits, demographic data, or other characteristics. 
+ Anomaly detection: K-means++ can be used to identify outliers or anomalies in a dataset. This is useful in fraud detection, network intrusion detection, and other security applications.
